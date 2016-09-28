@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_56024b625b16367610c3976e92c315b5b2858614\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0cf9b0be9950824030d9fe3460301cfa9745508f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -34,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="5f792366ff7bf21dc925ff01a05c59d1ef36f192">
+        sha1="6064cfefaa1d1c92fbd58a98cc6acb23bf3ac449">
         <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81535b1baac6c15c77d15d0a518f652dda4e2640\classes.dex" />
     </item>
     <item
@@ -54,6 +36,87 @@
         revision="24.0.1"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
         <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_97fa995723503e90af5897c8d3f193d3370fcd86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_fe94f74de1d403537d4d38ee24276fbce48957ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_001ad5844ff31c403149d611ec0e6718168685ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="212a910f2bc25160c0fd75bb8b1330cfcc2078bd">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e99bb2fe89c9ff6e32253f15eeb3a63a43e5c1a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_edba63e3d9cf4ab2181b487bd63cc7bbebed78d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_96b0f50da66bae3e7ba973865dc9425cd35762f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_911a5bc6f64ef6ac29fe4a32259378fdaba176b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_fc1ad6c708c5f0e68fcc8c13470588fd724e03b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_56024b625b16367610c3976e92c315b5b2858614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0cf9b0be9950824030d9fe3460301cfa9745508f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,33 +147,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_001ad5844ff31c403149d611ec0e6718168685ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="92c9d1a786d078bda0f8dbd35548ed2f9c0ac514">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e99bb2fe89c9ff6e32253f15eeb3a63a43e5c1a8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_edba63e3d9cf4ab2181b487bd63cc7bbebed78d9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -120,21 +156,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_96b0f50da66bae3e7ba973865dc9425cd35762f2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_911a5bc6f64ef6ac29fe4a32259378fdaba176b6\classes.dex" />
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_610439d8310dfa6b6c585f6a929eab7f1daf6984\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -144,15 +171,6 @@
         revision="24.0.1"
         sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
         <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_3867087a068781e8cb25660d16ef73b802e80f07\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="D:\Life\Programming\Project Here\ME-test-crispy-chainsaw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_fc1ad6c708c5f0e68fcc8c13470588fd724e03b4\classes.dex" />
     </item>
 
 </items>
