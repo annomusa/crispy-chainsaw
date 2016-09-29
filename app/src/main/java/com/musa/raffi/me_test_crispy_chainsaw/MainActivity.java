@@ -5,9 +5,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.widget.RelativeLayout;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     TabLayout tabLayout;
@@ -28,20 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         switchFragment(0);
         tabLayout.addOnTabSelectedListener(tabListener);
-//        addDivider();
     }
-
-    private void addDivider(){
-        for (int i=0;i<NUM_PAGES;i++){
-            TabLayout.Tab tab = tabLayout.getTabAt(i);
-            RelativeLayout relativeLayout = (RelativeLayout)
-                    LayoutInflater.from(this).inflate(R.layout.tab_layout, tabLayout, false);
-            assert tab != null;
-            tab.setCustomView(relativeLayout);
-            tab.select();
-        }
-    }
-
 
     TabLayout.OnTabSelectedListener tabListener = new TabLayout.OnTabSelectedListener() {
         @Override
@@ -61,8 +45,8 @@ public class MainActivity extends AppCompatActivity {
     };
 
     private void switchFragment(int position){
-        Fragment fragment = null;
-        String fragmentId = "";
+        Fragment fragment;
+        String fragmentId;
         Bundle args = new Bundle();
 
         switch (position){
@@ -77,6 +61,10 @@ public class MainActivity extends AppCompatActivity {
             case 2:
                 fragmentId = "Third";
                 args.putString("pages", "F");
+                break;
+            default:
+                fragmentId = "Third";
+                args.putString("pages", "X");
         }
         fragment = new ViewPagerFragment();
         fragment.setArguments(args);
